@@ -17,14 +17,19 @@
 ## Connect with me
 
 <p align="left">
-  <a href="www.linkedin.com/in/nhật-nguyễn-cát-073094448](https://www.linkedin.com/in/catsnhat/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/catsnhat/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/kats.nhat?xtok=MTB6cmtod2w3OGt5Ng%3D%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.instagram.com/kats.nhat/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
+---
+
+<p align="left">
+  <i>Always learning, always improving.</i>
+</p>
 ---
 
 *Always learning, always improving.*

@@ -1,4 +1,4 @@
-[# Hi, I'm Nguyen Cat Nhat 👋
+# Hi, I'm Nguyen Cat Nhat 👋
 
 🎓 IT Graduate from Van Lang Saigon College  
 💻 Interested in Web Development  

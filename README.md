@@ -30,7 +30,4 @@
 <p align="left">
   <i>Always learning, always improving.</i>
 </p>
----
 
-*Always learning, always improving.*
-](https://www.linkedin.com/in/catsnhat/)

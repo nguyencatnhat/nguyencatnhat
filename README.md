@@ -17,7 +17,7 @@
 ## Connect with me
 
 <p align="left">
-  <a href="www.linkedin.com/in/catsnhat">
+  <a href="www.linkedin.com/in/nhật-nguyễn-cát-073094448">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/kats.nhat?xtok=MTB6cmtod2w3OGt5Ng%3D%3D&utm_source=qr">

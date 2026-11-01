@@ -12,6 +12,7 @@
 ### Projects
 
 - [WebCatsNhat](https://github.com/nguyencatnhat/WebCatsNhat) — Personal website
+- [Xưởng Tre Cát Nhật](https://github.com/nguyencatnhat/XuongTreCatNhat) — Project website for Xưởng Tre Cát Nhật
 
 ## Connect with me
 
@@ -29,4 +30,3 @@
 <p align="left">
   <i>Always learning, always improving.</i>
 </p>
-
